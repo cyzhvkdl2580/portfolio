@@ -15,4 +15,9 @@ IDE :
 Spring Tool Suite 4, Eclipse, VScode, Oracle sqldeveloper, MySQL workbench
 
 프로젝트 경력 :
-
+![booking1](https://user-images.githubusercontent.com/84944267/135937903-0abec827-c07a-4719-b5d7-4c518f5ea947.jpg)
+![booking1_sorce](https://user-images.githubusercontent.com/84944267/135937914-ceaf8229-b6fe-436e-82b6-aadb944cb255.jpg)
+![booking2](https://user-images.githubusercontent.com/84944267/135937922-8b019d6d-3d33-41c4-bd20-db6c90011412.jpg)
+![booking2_sorce](https://user-images.githubusercontent.com/84944267/135937924-e0fc19e5-6dcb-4600-b4ee-6d15fc8c3e51.jpg)
+ - 세미 프로젝트의 팀장을 맡아 진행한 프로젝트입니다.
+ - 담당한 주 기능은 예매페이지의 기능이었습니다.
