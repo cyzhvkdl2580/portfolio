@@ -20,5 +20,5 @@ Spring Tool Suite 4, Eclipse, VScode, Oracle sqldeveloper, MySQL workbench
 ![booking2](https://user-images.githubusercontent.com/84944267/135937922-8b019d6d-3d33-41c4-bd20-db6c90011412.jpg)
 ![booking2_sorce](https://user-images.githubusercontent.com/84944267/135937924-e0fc19e5-6dcb-4600-b4ee-6d15fc8c3e51.jpg) 
 * 영화 리뷰/예매 사이트
- * 세미 프로젝트의 팀장을 맡아 진행한 프로젝트입니다.
- * 담당한 주 기능은 예매페이지의 기능이었습니다.
+  * 세미 프로젝트의 팀장을 맡아 진행한 프로젝트입니다.
+  * 담당한 주 기능은 예매페이지의 기능이었습니다.
