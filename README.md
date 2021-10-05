@@ -22,6 +22,7 @@
     * 팀장을 맡아 진행한 프로젝트입니다.
     * Java, Spring Boot, Spring Securty, Javascript(JSP), MySql(AWS EC2를 사용해 팀원들과 DBMS공유), Bootstrap
     * 주로 관리자 페이지 기능들과 게시판들을 담당하였습니다.
+    * 상세한 내용은 neocom.pdf 참조바랍니다.
 
 
 ![booking1](https://user-images.githubusercontent.com/84944267/135937903-0abec827-c07a-4719-b5d7-4c518f5ea947.jpg)
