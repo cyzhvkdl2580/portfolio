@@ -6,11 +6,11 @@
 * 교육 : 자바 스프링 웹개발 6개월
 
 * 주언어 및 보조언어 :
- * Java, javascript, jsp, sql, html, css, Spring, ajax, json, xml
- * Database : Oracle, MySQL
+  * Java, javascript, jsp, sql, html, css, Spring, ajax, json, xml
+  * Database : Oracle, MySQL
 
 * IDE :
- * Spring Tool Suite 4, Eclipse, VScode, Oracle sqldeveloper, MySQL workbench
+  * Spring Tool Suite 4, Eclipse, VScode, Oracle sqldeveloper, MySQL workbench
 
 * 프로젝트 :
 ![neocom_main](https://user-images.githubusercontent.com/84944267/135939220-4f5f4a6d-62e3-4a95-b6ae-0906754a3c6b.jpg)
